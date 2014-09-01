@@ -7,6 +7,8 @@ SubparHexagon
 A 3D remake of Super Hexagon in Unity.
 Can be built for iOS provided you have an Apple developer account.
 
+PLayable online here : https://dl.dropboxusercontent.com/u/155290014/SubparHexagon/SubparHexagon.html
+
 PC Controls
 -------------
 
