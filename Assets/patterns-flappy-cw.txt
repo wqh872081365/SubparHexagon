@@ -1,0 +1,28 @@
+top ->counter clockwise;
+-tri1;
+v v v ;
+-tri2;
+ v v v;
+-pair 1;
+v  v  ;
+-pair 2;
+ v  v ;
+-pair 3;
+  v  v;
+-tri stripes;
+v v v ;
+      ;
+v v v ;
+-filled spinner
+  vvvv;
+v  vvv;
+vv  vv;
+vvv  v;
+vvvv  ;
+ vvvv ;
+  vvvv;
+v  vvv;
+vv  vv;
+vvv  v;
+vvvv  ;
+ vvvv ;
